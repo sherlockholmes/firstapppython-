@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=App
+_Comment=App application
+Categories=GNOME;Utility;
+Exec=app
+Icon=app
+Terminal=false
+Type=Application
